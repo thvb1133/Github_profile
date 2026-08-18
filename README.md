@@ -68,7 +68,9 @@ An evidence-backed BattleBots matchup simulator covering all 24 robots in the 20
 two robots to get an **explainable win probability**, then redesign the underdog's armor,
 reliability, mobility and weapon bite and watch the odds move in real time. Deliberately uses a
 deterministic, auditable scoring model rather than an uncheckable LLM opinion, backed by a scraping
-pipeline for refreshing robot profiles and fight results. Deploys to GitHub Pages via Actions.
+pipeline for refreshing robot profiles and fight results.
+
+🔗 **[Try it live](https://thvb1133.github.io/PitBoss_AI_Agent_Battle_Hackathon/)** — deployed to GitHub Pages via Actions.
 
 ### 🌌 [Beyond Orbit — A Tale of Two Souls](https://github.com/thvb1133/AWShackathon) &nbsp;`JavaScript` `WebGL` `Web Speech API` `PWA`
 
