@@ -44,7 +44,7 @@ zero-dependency 3D solar system that runs entirely in the browser.
 ![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA%20%26%20Service%20Workers-5A0FC8?style=flat-square&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
