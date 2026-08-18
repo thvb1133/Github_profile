@@ -1,0 +1,23 @@
+{
+  "name": "github-profile",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A modern, responsive GitHub profile / portfolio site that renders live data from the GitHub REST API.",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 4173",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "eslint": "^9.15.0",
+    "jsdom": "^25.0.1",
+    "prettier": "^3.3.3",
+    "vite": "^6.0.1",
+    "vitest": "^2.1.6"
+  }
+}

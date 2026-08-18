@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A modern GitHub profile and portfolio page rendered from live GitHub data."
+    />
+    <title>GitHub Profile</title>
+    <link rel="preconnect" href="https://api.github.com" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <a class="brand" href="/" aria-label="Home">
+          <span class="brand-mark">gh</span>
+          <span class="brand-text">profile</span>
+        </a>
+        <form id="search-form" class="search" role="search">
+          <input
+            id="username-input"
+            class="search-input"
+            type="text"
+            name="username"
+            placeholder="Enter a GitHub username…"
+            autocomplete="off"
+            aria-label="GitHub username"
+          />
+          <button class="search-button" type="submit">View</button>
+        </form>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle theme">
+          <span class="theme-toggle-icon" aria-hidden="true">🌙</span>
+        </button>
+      </header>
+
+      <main id="content" class="content" aria-live="polite">
+        <!-- Profile is rendered here -->
+      </main>
+
+      <footer class="footer">
+        <span>Built with Vite · Data from the GitHub REST API</span>
+      </footer>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
