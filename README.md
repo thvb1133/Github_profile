@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beejal-patel-061140331">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/thvb1133?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
@@ -32,10 +32,10 @@ zero-dependency 3D solar system that runs entirely in the browser.
 ## Tech I work with
 
 **Languages** &nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logoColor=white)
 
 **Frameworks & tools** &nbsp;
 ![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -44,7 +44,7 @@ zero-dependency 3D solar system that runs entirely in the browser.
 ![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -79,15 +79,12 @@ key** — just ES modules, an import map and a service worker on a static host.
 
 ---
 
-## 📊 GitHub stats
+## 📊 Project snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thvb1133&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thvb1133&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=thvb1133&hide_border=true&theme=tokyonight" alt="Contribution streak" />
-</p>
+| Repository | Stack | Live status |
+| --- | --- | --- |
+| [SuperMarket30_UniExam](https://github.com/thvb1133/SuperMarket30_UniExam) | C# · .NET 8 · EF Core · SQL Server | ![stars](https://img.shields.io/github/stars/thvb1133/SuperMarket30_UniExam?style=flat-square&label=stars&color=blue) ![updated](https://img.shields.io/github/last-commit/thvb1133/SuperMarket30_UniExam?style=flat-square&label=updated&color=blue) |
+| [PitBoss_AI_Agent_Battle_Hackathon](https://github.com/thvb1133/PitBoss_AI_Agent_Battle_Hackathon) | TypeScript · React 19 · Vite | ![stars](https://img.shields.io/github/stars/thvb1133/PitBoss_AI_Agent_Battle_Hackathon?style=flat-square&label=stars&color=blue) ![updated](https://img.shields.io/github/last-commit/thvb1133/PitBoss_AI_Agent_Battle_Hackathon?style=flat-square&label=updated&color=blue) |
+| [AWShackathon](https://github.com/thvb1133/AWShackathon) | JavaScript · WebGL · Service Workers | ![stars](https://img.shields.io/github/stars/thvb1133/AWShackathon?style=flat-square&label=stars&color=blue) ![updated](https://img.shields.io/github/last-commit/thvb1133/AWShackathon?style=flat-square&label=updated&color=blue) |
 
 <p align="center"><sub>Currently open to internships and junior developer roles — say hi on <a href="https://www.linkedin.com/in/beejal-patel-061140331">LinkedIn</a>.</sub></p>
